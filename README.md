@@ -4,7 +4,7 @@ A responsive digital magazine landing page built with **HTML** and **CSS**.
 
 ## Preview
 
-🔗 **Live demo:** https://github.com/mohmmedanwar16112006
+🔗 **Live demo:** https://mohmmedanwar16112006@gmail.com.github.io/AURORA – Digital Magazine/
 
 ## Features
 
