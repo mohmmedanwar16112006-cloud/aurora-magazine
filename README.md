@@ -1,50 +1,42 @@
-# AURORA – Digital Magazine
+# 📰 AURORA Digital Magazine
 
-A responsive digital magazine landing page built with **HTML** and **CSS**.
+A modern digital magazine landing page built with **pure HTML and CSS**, as part of my Computer Science studies at Karary University.
 
-## Preview
+## ✨ Features
 
-🔗 **Live demo:** https://mohmmedanwar16112006@gmail.com.github.io/aurora–magazine/
-
-## Features
-
-- Fixed navigation bar with smooth scrolling to each section
-- Hero section with call-to-action button
-- Featured Stories grid (Architecture, Technology, Interior, Culture)
-- Latest Stories section
-- Newsletter subscription form
+- Full-width hero section
+- Featured stories grid (Architecture, Technology, Interior, Culture)
+- Latest stories section
+- Newsletter subscription section
 - Footer with quick links and social icons
-- Hover effects on cards and navigation links
-- Responsive layout for desktop and mobile
+- Clean layout built with CSS Grid
+- Responsive design using media queries
 
-## Built With
+## 🛠️ Built With
 
 - HTML5
 - CSS3 (Grid, Flexbox, Media Queries)
-- [Montserrat](https://fonts.google.com/specimen/Montserrat) font
-- [Font Awesome 4.7](https://fontawesome.com/v4/) icons
+- [Font Awesome 4.7](https://fontawesome.com/v4/) for icons
+- [Google Fonts](https://fonts.google.com/) (Montserrat)
 
-## Project Structure
+## 📁 Project Structure
 
 ```
-aurora-magazine/
+aurora-digital-magazine/
 ├── index.html
 ├── style.css
-├── images/
-└── README.md
+└── images/
 ```
 
-## Run Locally
+## 🚀 Getting Started
 
-1. Download or clone the repository
-2. Open `index.html` in your browser
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/mohmmedanwar16112006@gmail.com/aurora-digital-magazine.git
+   ```
+2. Open `index.html` in your browser.
 
-## Author
+## 👤 Author
 
 **Mohammed Anwar**
-First-year Computer Science student, Karary University.
-
-## Credits
-
-Design inspired by the Colorlib "Creative Agency" template, rebuilt from scratch.
-Images from [Unsplash](https://unsplash.com).
+First-year Computer Science student, Karary University
