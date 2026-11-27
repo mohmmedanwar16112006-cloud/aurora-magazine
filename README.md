@@ -32,7 +32,7 @@ aurora-digital-magazine/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/mohmmedanwar16112006@gmail.com/aurora-digital-magazine.git
+   git clone https://github.com/mohmmed-anwar-01/aurora-digital-magazine.git
    ```
 2. Open `index.html` in your browser.
 
